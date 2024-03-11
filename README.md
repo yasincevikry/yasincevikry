@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hi, My name is Yasin<br>🏫 I'm 3rd year Software Engineering student in Maltepe University<br>👨🏼‍💻 I’m interested in iOS development and SAP Abap development<br>🤓 I want to develop my own apps and be a good iOS developer
+👋🏻 Hi, My name is Yasin<br>🏫 I'm 4th year Software Engineering student in Maltepe University<br>👨🏼‍💻 I’m interested in iOS development and SAP Abap development<br>🤓 I want to develop my own apps and be a good iOS developer
 
 
 ## 🌐 Socials:
